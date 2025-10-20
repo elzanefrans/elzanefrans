@@ -9,7 +9,7 @@ Welcome to my digital portfolio for Project Presentation 3 at CPUT.
 - [Personality Assessment](personality-assessment.md)
 - [Create a CV](create-cv.md)
 - [CV Submission](cv-submission.md)
- 
+- [Business Idea](business-idea.md)
 ## About Me
 
 I am Elzane Frans, I'm 22 years old and I am a third year student, studying for a Diploma of ICT: Applications Developmentat CPUT - District Six Campus. My main goal after completing my Diploma is to find a job that suits my needs and my purpose i.e. in help solving technical issues, creating web/app applications, organizing data.

@@ -6,5 +6,5 @@ In this section, I explain the business idea I have developed and why I believe 
 
 Watch my 3-minute presentation where I explain my business idea:
 
-[Download and Play Video](videos/explanationofmymockups-brandguide-made-with-clipchamp_N4OnEni7.mp4)
+[Download and Play Video](https://drive.google.com/file/d/1KQUmUkqtJGbJ7a8tVYOGCqzvPAkZdkLT/view?usp=sharing)
 *Click the link above to download the video and play it on your device.*

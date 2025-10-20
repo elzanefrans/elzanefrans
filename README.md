@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**elzanefrans/elzanefrans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ____Elzane Frans's' digital portfolio - PRP3____
 
-Here are some ideas to get you started:
+Welcome to my digital portfolio for Project Presentation 3 at CPUT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sections
+- [Career Counselling](career-counselling.md)
+- [Skills and Interests](skills-interest.md)
+- [Personality Assessment](personality-assessment.md)
+- [Create a CV](create-cv.md)
+- [CV Submission](cv-submission.md)
+ 
+## About Me
+
+I am Elzane Frans, I'm 22 years old and I am a third year student, studying for a Diploma of ICT: Applications Developmentat CPUT - District Six Campus. My main goal after completing my Diploma is to find a job that suits my needs and my purpose i.e. in help solving technical issues, creating web/app applications, organizing data.

@@ -4,7 +4,7 @@ In this section, I explain the business idea I have developed and why I believe 
 
 ## 🎥 Video Explanation
 
-Watch my 3-minute presentation where I explain my business idea:
+Watch my presentation where I explain my business idea:
 
 [Download and Play Video](https://drive.google.com/file/d/1KQUmUkqtJGbJ7a8tVYOGCqzvPAkZdkLT/view?usp=sharing)
 
